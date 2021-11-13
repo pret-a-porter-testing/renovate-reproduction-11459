@@ -1,0 +1,8 @@
+{
+  "ignoreTests": true,
+  "gomodTidy": true,
+  "allowScripts": false,
+  "exposeEnv": true,
+  "includeForks": false,
+  "versionScheme": "test"
+}
